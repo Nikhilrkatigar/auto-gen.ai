@@ -1,0 +1,5 @@
+python-docx>=0.8.11
+numpy>=2.0
+anthropic>=2.0
+fastembed>=0.9
+pytest>=8.0

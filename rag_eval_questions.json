@@ -1,0 +1,22 @@
+[
+  {"q": "Which staff account at HILLTOP was debited 3.6 lakh?", "branch": "HILLTOP", "needle": "-360000.00"},
+  {"q": "Which staff account at MARKET YARD received a credit of 3.6 lakh in May?", "branch": "MARKET YARD", "needle": "Transaction Amount: 360000"},
+  {"q": "How many days old is the interest subvention agriculture entry pending at LAKEVIEW?", "branch": "LAKEVIEW", "needle": "Age in Days: 2792"},
+  {"q": "How long has the advance rent paid to the landlord been outstanding at MARKET YARD?", "branch": "MARKET YARD", "needle": "Age in Days: 409"},
+  {"q": "Which gold loan at LAKEVIEW is charged 12 percent against a product rate of 9?", "branch": "LAKEVIEW", "needle": "ROI as per CBS: 12.00"},
+  {"q": "Education loan charged 13.40 percent instead of 10.40 at HILLTOP", "branch": "HILLTOP", "needle": "ROI as per CBS: 13.40"},
+  {"q": "Which housing loan at GREENFIELD has an interest rate of 11.5 percent?", "branch": "GREENFIELD", "needle": "ROI as per CBS: 11.50"},
+  {"q": "SHG NRLM agriculture cash credit charged only 4 percent at HILLTOP", "branch": "HILLTOP", "needle": "ROI as per CBS: 4.00"},
+  {"q": "Were the KYC documents of new accounts at GREENFIELD verified?", "branch": "GREENFIELD", "needle": "unable to verify the scanned copies"},
+  {"q": "Which dormant accounts were reactivated at LAKEVIEW this week?", "branch": "LAKEVIEW", "needle": "DATE OF OPERATIVE"},
+  {"q": "Which CIFs were delinked at MARKET YARD during the week?", "branch": "MARKET YARD", "needle": "CIF DELINKING"},
+  {"q": "Mobile number changes at HILLTOP during the week", "branch": "HILLTOP", "needle": "New Mobile No."},
+  {"q": "Debit in the sundry creditors clearing account at HILLTOP", "branch": "HILLTOP", "needle": "SUNDRY CREDITORS - CLEARING; Debit Amount"},
+  {"q": "How much was debited to the PPF scheme remitted account at GREENFIELD?", "branch": "GREENFIELD", "needle": "PPF SCHEME REMITTED; Debit Amount"},
+  {"q": "Which staff accounts at MARKET YARD had transactions of 74,000?", "branch": "MARKET YARD", "needle": "-74000.00"},
+  {"q": "Pending TDS payable entry at GREENFIELD in the ANINA reconciliation", "branch": "GREENFIELD", "needle": "TDS PAYABLE ACCOUNT"},
+  {"q": "Business loan overdraft charged 8.6 percent instead of 9.6 at GREENFIELD", "branch": "GREENFIELD", "needle": "Rate as per A/c: 8.60"},
+  {"q": "Micro enterprise manufacturing loan at 8.75 percent against product rate 11.75", "branch": null, "needle": "Rate as per A/c: 8.75"},
+  {"q": "Which branch has a cash credit general account at 8.40 percent in the daily report?", "branch": null, "needle": "Rate as per Account: 8.40"},
+  {"q": "Which account ending 4286 had its CIF delinked?", "branch": null, "needle": "XXXXXX4286"}
+]
