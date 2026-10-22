@@ -3,7 +3,7 @@
 Ask plain-English questions about bank concurrent audit reports and get answers with source citations.
 
 > "Which staff account at HILLTOP was debited 3.6 lakh?"
-> → *Staff account XXXXXX7618 (P. D.) was debited ₹3,60,000 on 19/05/2026 [1].*
+> → *Staff account XXXXXX7618 (P. D.) was debited ₹3,60,000 on 19/05/2026 [1].* (the intended answer format; retrieval finds this row in the sample reports)
 
 This is a retrieval-augmented generation (RAG) layer that I built on top of a report generator I wrote for chartered accountant firms. That generator turns daily core-banking exports into daily, weekly and monthly concurrent audit reports in Word format. Auditors then need to find things across dozens of these reports ("which staff accounts crossed ₹45,000 this month?"). This project lets them ask instead of scrolling.
 
